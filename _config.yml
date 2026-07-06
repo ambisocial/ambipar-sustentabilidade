@@ -1,0 +1,17 @@
+title: "Sustentabilidade em Foco"
+description: "visão geral do setor sustentável"
+baseurl: "/ambipar-sustentabilidade"
+url: "https://ambisocial.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:year/:month/:day/:title/
+author:
+  name: "Redação Sustentabilidade em Foco"
+  email: "contato@ambipar-sustentabilidade.com"
+social:
+  name: Sustentabilidade em Foco
+  links:
+    - https://github.com/ambisocial/ambipar-sustentabilidade
