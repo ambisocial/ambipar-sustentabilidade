@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "A Sustentabilidade que Gera Caixa: Por que o Modelo de Economia Circular Deveria Ser Copiado"
-date: 2026-07-07
+date: 2026-07-07 10:36:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Patricia Lima
-tags: ["sustentabilidade-rentavel", "modelo-negocio", "esg", "caixa"]
 ---
 
 # A Sustentabilidade que Gera Caixa: Por que o Modelo a empresa Deveria Ser Copiado
